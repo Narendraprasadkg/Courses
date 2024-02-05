@@ -5,8 +5,13 @@ You can choose onemodule from the list below:-
 3)Divide & Conquer Algorithms
 4)Greedy Algorithm 
 5)Dynamic Programming
+6)Abstraction and Encapsulation
 
 
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Narendraprasad KG
+Abstraction and Encapsulation
+Abstraction allows us to focus on essential details, shielding us from complexity, while encapsulation neatly packages data and functionality, promoting a modular and organized approach in programming.
